@@ -1,0 +1,17 @@
+.gallery__item {
+    margin: 20px 10px;
+    padding: 10px;
+    border: 1px solid #ebebeb;
+    color: #979797;
+}
+
+.gallery__item__title {
+    padding-top: 10px;
+    font-weight: 300;
+    color: #979797;
+}
+
+.gallery__item__date {
+    font-size: 12px;
+    font-weight: 300;
+}

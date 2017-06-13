@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px;
+    font-weight: 300;
+    font-size: 12px;
+}
+
+.footer__link {
+    color: #979797;
+    text-decoration: none;
+}
